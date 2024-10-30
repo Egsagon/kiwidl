@@ -3,8 +3,8 @@ import zipfile
 
 # Settings
 API = 'https://webtoon.cloud'
-URL = 'https://www.japscan.lol/lecture-en-ligne/tensei-shitara-slime-datta-ken/1/'
-OUT = './tensura-1.cbz'
+URL = '< JAPSCAN INPUT CHAPTER URL >'
+OUT = '< OUTPUT PATH TO CBZ >'
 
 print(f'[ SCRAPER ] harvesting {URL}')
 
